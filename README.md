@@ -41,4 +41,6 @@ Watching address  serverIP:20086/
 Restart PUBG-Radar command
 
 ```bash
-cd /root/PUBG-Radar-Onekey;. restart.sh
+
+cd /root/Pubg_WebRadar;
+. restart.sh
