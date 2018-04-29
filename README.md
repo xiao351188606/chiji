@@ -10,11 +10,14 @@ Server running command：
 
 ```bash
 
+网页雷达一键安装命令
+
 yum install git;
 git clone https://github.com/cheat8/Pubg_WebRadar.git;
-chmod +x . /root/Pubg_WebRadar/update.sh;
-. /root/PUBG-Radar-Onekey/update.sh
 
+雷达网页打不开，不跟踪，运行此命令
+
+cd /root/Pubg_WebRadar/update.sh;
 ```
 
 ## Translation
