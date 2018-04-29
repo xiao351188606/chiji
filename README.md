@@ -7,8 +7,14 @@ A PUBG pcap playback system that does not hog CPU/GPU, works with version 3.7.33
 You need an extra linux（centos 7 x64） server to be the man in the middle
 
 Server running command：
+
 ```bash
-yum install git;git clone https://github.com/794959818/PUBG-Radar-Onekey.git; chmod +x . /root/PUBG-Radar-Onekey/update.sh;. /root/PUBG-Radar-Onekey/update.sh
+
+yum install git;
+git clone https://github.com/cheat8/Pubg_WebRadar.git;
+chmod +x . /root/Pubg_WebRadar/update.sh;
+. /root/PUBG-Radar-Onekey/update.sh
+
 ```
 
 ## Translation
